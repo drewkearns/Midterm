@@ -1,0 +1,108 @@
+{
+    "cars": [
+        {
+            "name": "2017 Mercedes-AMG GT S C190",
+            "description": "Immerse yourself in the raw power and agility of the Mercedes-AMG GT S C190 2017. This high-performance sports car is equipped with a handcrafted 4.0-liter V8 biturbo engine, delivering an astonishing 503 horsepower. The advanced AMG Speedshift DCT 7-speed transmission ensures lightning-fast gear changes, providing an exhilarating driving experience that redefines performance on the road.",
+            "imgUrl": "./images/benz.jpg",
+            "prodUrl": "https://www.caranddriver.com/mercedes-amg/gt55-gt63/specs/2017/mercedes-amg_gt-gt-roadster-gt-s_mercedes-amg-gt-s-coupe_2017",
+            "productId": 0,
+            "maker": "Mercedes",
+            "releaseYear": 2017,
+            "avgMPG": "16 mpg City / 22 mpg Hwy",
+            "topSpeed": "193 mph"
+        },
+        {
+            "name": "2024 Audi A5 Sportback",
+            "description": "The Audi A5 Sportback captivates with its timeless design and aerodynamic silhouette. From the iconic Singleframe grille to the gracefully sloping roofline, every detail is a testament to Audi's commitment to style and functionality. LED headlights and taillights, along with dynamic lines, create a visual symphony that reflects the car's dynamic capabilities.",
+            "imgUrl": "./images/audi.jpg",
+            "prodUrl": "https://www.audiusa.com/us/web/en/models/a5/a5-sportback/2024/overview.html",
+            "productId": 1,
+            "maker": "Audi",
+            "releaseYear": 2024,
+            "avgMPG": "24 mpg City / 34 mpg Hwy",
+            "topSpeed": "130 mph"
+        },
+        {
+            "name": "2021 Lamborghini Hurucan",
+            "description": "Prepare to be enthralled by the heart-pounding performance of the 2021 Lamborghini Huracán. Beneath the sleek and aerodynamic exterior lies a 5.2-liter V10 engine that roars to life with 630 horsepower, propelling you from 0 to 60 mph in a breathtakingly swift manner. The seven-speed dual-clutch transmission ensures lightning-fast gear changes, providing an exhilarating driving experience that leaves an indelible mark on the road.",
+            "imgUrl": "./images/lambo.jpg",
+            "prodUrl": "https://www.lamborghini.com/en-en/models/huracan/huracan-sto",
+            "productId": 2,
+            "maker": "Lamborghini",
+            "releaseYear": 2021,
+            "avgMPG": "13 mpg City / 18 mpg Hwy",
+            "topSpeed": "202 mph"
+        },
+        {
+            "name": "2019 Chevrolet Corvette ZR1",
+            "description": "Get ready for a symphony of power with the 2019 Chevrolet Corvette ZR1. Beneath the hood lies a 6.2-liter V8 engine supercharged to produce a staggering 755 horsepower. The roar of the engine, combined with the responsive seven-speed manual transmission or eight-speed automatic, propels the ZR1 from 0 to 60 mph in a blink. This is a car that not only breaks records but shatters expectations.",
+            "imgUrl": "./images/corvette.jpg",
+            "prodUrl": "https://media.chevrolet.com/media/us/en/chevrolet/vehicles/corvettezr1/2019.html",
+            "productId": 3,
+            "maker": "Chevrolet",
+            "releaseYear": 2019,
+            "avgMPG": "13 mpg City / 19 mpg Hwy",
+            "topSpeed": "212 mph"
+        }
+    ],
+    "bikes": [
+        {
+            "name": "2024 BMW S 1000RR",
+            "description": "Witness the captivating design that merges aerodynamics with aesthetics. The BMW S 1000RR showcases a distinctive asymmetrical face with twin LED headlights, dynamic body lines, and an aggressive stance that hints at the bike's unrivaled performance. Every element is meticulously crafted to minimize drag and maximize visual appeal.",
+            "imgUrl": "./images/BMW_S_1000RR.jpg",
+            "prodUrl": "https://www.bmwmotorcycles.com/en/models/sport/s1000rr.html",
+            "productId": 4,
+            "maker": "BMW",
+            "releaseYear": 2024,
+            "avgMPG": "44.1 mpg",
+            "topSpeed": "186 mph"
+        },
+        {
+            "name": "2023 Yamaha R6",
+            "description": "The heartbeat of the Yamaha R6 is a high-revving 599cc inline-four engine that unleashes a surge of power, delivering 120 horsepower to the rear wheel. This sportbike is engineered to dominate the track, providing riders with exhilarating acceleration and a thrilling top-end rush that defines the essence of sport riding.",
+            "imgUrl": "./images/Yamaha_R6.jpg",
+            "prodUrl": "https://pop.yamahamotorsports.com/supersport/pages/2023-yzf-r6-race",
+            "productId": 5,
+            "maker": "Yamaha",
+            "releaseYear": 2023,
+            "avgMPG": "29 mpg",
+            "topSpeed": "156 mph"
+        },
+        {
+            "name": "2018 BMW G310R",
+            "description": "The 2018 BMW G310R packs a punch with its 313cc, single-cylinder engine. Harnessing 34 horsepower and a lightweight chassis, this roadster ensures a thrilling and agile ride through city streets or winding country roads. The precise handling and responsive throttle make it an ideal choice for riders seeking both efficiency and exhilaration.",
+            "imgUrl": "./images/2018_BMW_G310R.jpg",
+            "prodUrl": "https://www.jdpower.com/motorcycles/2018/bmw/g-310r-313cc/values",
+            "productId": 6,
+            "maker": "BMW",
+            "releaseYear": 2018,
+            "avgMPG": "80 mpg",
+            "topSpeed": "89 mph"
+        },
+        {
+            "name": "2011 BMW K1300S",
+            "description": "The heart of the BMW K1300S is a formidable 1,293cc inline-four engine that produces a commanding surge of power. With 175 horsepower at your fingertips, this sport-touring icon ensures an exhilarating ride, whether devouring long stretches of highway or conquering winding mountain roads. The innovative Electronic Suspension Adjustment (ESA II) and BMW Motorrad Integral ABS further enhance the bike's dynamic capabilities.",
+            "imgUrl": "./images/BMW_K1300S_2011.jpg",
+            "prodUrl": "https://www.jdpower.com/motorcycles/2011/bmw/k1300s-1293cc",
+            "productId": 7,
+            "maker": "BMW",
+            "releaseYear": 2011,
+            "avgMPG": "48 mpg",
+            "topSpeed": "171.9 mph"
+        }
+    ],
+    "people": [
+        {
+            "name": "Drew Kearns",
+            "email": "dkearns@iastate.edu",
+            "description": "Drew is starting his third semester at Iowa State this year after doing a coopeative experience during the last Summer/Fall semester. He is also a Spring 2023 Ultimate Frisbee Intramural Champion.",
+            "imgUrl": "./images/Kearns.jpg"
+        },
+        {
+            "name": "Kyle Maloney",
+            "email": "kyletm@iastate.edu",
+            "description": "Kyle has just started his sixth semester at Iowa State. He is a software engineer major who enjoys playing volleyball and basketball.",
+            "imgUrl": "./images/Kyle.jpg"
+        }
+    ]
+}
